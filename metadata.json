@@ -1,0 +1,6 @@
+{
+  "name": "Replan",
+  "description": "An AI productivity planner with selectable personality profiles that adapt their planning philosophy and escalate frustration levels if tasks fall behind.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
